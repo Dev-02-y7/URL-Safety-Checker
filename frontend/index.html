@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>URL Safety Checker</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="app">
+
+    <div class="header">
+
+        <h1>URL Safety Checker</h1>
+
+        <p>
+            Analyze URLs for security risks,
+            SSL validity,
+            DNS information,
+            and security headers.
+        </p>
+
+    </div>
+
+    <div class="scanner">
+
+        <input
+            id="urlInput"
+            placeholder="https://example.com"
+        >
+
+        <button onclick="scanURL()">
+            Analyze URL
+        </button>
+
+    </div>
+
+    <div id="results"></div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
