@@ -4,9 +4,9 @@ A cybersecurity-focused web application that helps users quickly assess whether 
 I built this project to explore the fundamentals of web security, threat analysis, and risk assessment while gaining hands-on experience with FastAPI, cybersecurity concepts, and full-stack development.
 Rather than simply checking if a website is online, the application performs multiple security checks and combines the results into an overall risk score, helping users make more informed decisions about unfamiliar websites.
 
-<img width="1807" height="382" alt="Screenshot 2026-06-12 155957" src="https://github.com/user-attachments/assets/41d8b0ca-3033-4a8c-a9fb-09aca1f4082d" />
+<img width="1807" height="382" alt="Screenshot 2026-06-12 155957" src="https://github.com/user-attachments/assets/a53b3937-27b2-427d-9c34-be88548181ed" />
 
-<img width="1861" height="802" alt="Screenshot 2026-06-12 160012" src="https://github.com/user-attachments/assets/7032a93f-9e4a-4906-88a1-eae903e88a83" />
+<img width="1861" height="802" alt="Screenshot 2026-06-12 160012" src="https://github.com/user-attachments/assets/4f562592-8976-4ef1-867f-2f417356a427" />
 
 Features:
 
